@@ -1,0 +1,8 @@
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" />**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m looking for an internship
+- 🌱 I’m currently learning Cryptography; 
+- 💼 I’m pursuing a Master's degree in Software Engineering;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via kongwiki5@gmail.com/kongwiki@163.com to reach me.![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=KongWiki&show_icons=true&hide_border=true)
+
