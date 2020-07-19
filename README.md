@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Cryptography; 
 - 💼 I’m pursuing a Master's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via kongwiki5@gmail.com/kongwiki@163.com to reach me.![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=KongWiki&show_icons=true&hide_border=true)
+- 📫 Please email via kongwiki5@gmail.com or kongwiki@163.com to reach me.![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=KongWiki&show_icons=true&hide_border=true)
 
