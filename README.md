@@ -6,8 +6,3 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email  kongwiki5@gmail.com or kongwiki@163.com to reach me.![KongWiki's github stats](https://github-readme-stats.vercel.app/api?username=KongWiki&show_icons=true&hide_border=true)
 
-📊 **Weekly development breakdown**
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
