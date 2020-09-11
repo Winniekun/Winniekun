@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" height="280" />**Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m looking for an internship;
+- 👨🏽‍💻 I’m an intern at NIO;
 - 🌱 I’m currently learning Cryptography; 
 - 💼 I’m pursuing a Master's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
