@@ -2,5 +2,4 @@
 
 - 👨🏽‍💻 I’m a RD at Baidu;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email  kongwiki5@gmail.com or kongwiki@163.com to reach me.![Winniekun's github stats](https://github-readme-stats.vercel.app/api?username=Winniekun&show_icons=true&hide_border=true)
-
+- 📫 Please email  kongwiki5@gmail.com or kongwiki@163.com to reach me.
